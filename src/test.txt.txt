@@ -1,1 +1,4 @@
 test thử
+dòng 2
+dòng 3
+dòng 4
